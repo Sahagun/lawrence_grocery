@@ -1,0 +1,8 @@
+milk
+meat
+vegetable
+bread
+egg
+fruits
+apple
+bananas
